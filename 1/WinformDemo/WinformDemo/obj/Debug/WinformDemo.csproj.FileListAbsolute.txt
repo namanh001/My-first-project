@@ -1,0 +1,24 @@
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\bin\Debug\WinformDemo.exe.config
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\bin\Debug\WinformDemo.exe
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\bin\Debug\WinformDemo.pdb
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\obj\Debug\WinformDemo.csprojResolveAssemblyReference.cache
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\obj\Debug\WinformDemo.MainForm.resources
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\obj\Debug\WinformDemo.Properties.Resources.resources
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\obj\Debug\WinformDemo.csproj.GenerateResource.Cache
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\obj\Debug\WinformDemo.exe
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\obj\Debug\WinformDemo.pdb
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\obj\Debug\WinformDemo.FORMs.DangNhap.resources
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\obj\Debug\WinformDemo.UCs.ucPicture.resources
+E:\GIANG DAY\NNLT2\LOP THU 2\WinformDemo\WinformDemo\obj\Debug\WinformDemo.UCs.ucDSSV.resources
+D:\Save project VS\1\WinformDemo\WinformDemo\bin\Debug\WinformDemo.exe.config
+D:\Save project VS\1\WinformDemo\WinformDemo\bin\Debug\WinformDemo.exe
+D:\Save project VS\1\WinformDemo\WinformDemo\bin\Debug\WinformDemo.pdb
+D:\Save project VS\1\WinformDemo\WinformDemo\obj\Debug\WinformDemo.csprojResolveAssemblyReference.cache
+D:\Save project VS\1\WinformDemo\WinformDemo\obj\Debug\WinformDemo.FORMs.DangNhap.resources
+D:\Save project VS\1\WinformDemo\WinformDemo\obj\Debug\WinformDemo.MainForm.resources
+D:\Save project VS\1\WinformDemo\WinformDemo\obj\Debug\WinformDemo.Properties.Resources.resources
+D:\Save project VS\1\WinformDemo\WinformDemo\obj\Debug\WinformDemo.UCs.ucDSSV.resources
+D:\Save project VS\1\WinformDemo\WinformDemo\obj\Debug\WinformDemo.UCs.ucPicture.resources
+D:\Save project VS\1\WinformDemo\WinformDemo\obj\Debug\WinformDemo.csproj.GenerateResource.Cache
+D:\Save project VS\1\WinformDemo\WinformDemo\obj\Debug\WinformDemo.exe
+D:\Save project VS\1\WinformDemo\WinformDemo\obj\Debug\WinformDemo.pdb

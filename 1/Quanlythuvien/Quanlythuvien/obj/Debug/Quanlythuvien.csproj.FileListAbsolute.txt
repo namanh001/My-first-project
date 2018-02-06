@@ -1,0 +1,13 @@
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe.config
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.exe
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\bin\Debug\Quanlythuvien.pdb
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.frmLogin.resources
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.frmMain.resources
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.Properties.Resources.resources
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.exe
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.pdb
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\obj\Debug\Quanlythuvien.frmDocgia.resources
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\bin\Debug\DataBase\Database1.mdf
+D:\Save project VS\1\Quanlythuvien\Quanlythuvien\bin\Debug\DataBase\Database1_log.ldf
